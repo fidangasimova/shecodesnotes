@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 This file is made with [markdown](http://markdowntutorial.com/) go give a look to their page; but
 first of all go and sign up for receiving a [she.codes] newsletter!(http://now.she.codes/)
