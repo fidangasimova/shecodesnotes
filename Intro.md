@@ -1,7 +1,8 @@
 ## Introduction
 
-This file is made with [markdown](http://markdowntutorial.com/) go give a look to their page; but
-first of all go and sign up for receiving a [she.codes] newsletter!(http://now.she.codes/)
+This file is in [markdown](http://markdowntutorial.com/) format; go give a look at the Website.  
+
+But first of all sign up for receiving a [she.codes] (http://now.she.codes/) newsletter!
 
 ###Index
 
@@ -44,6 +45,14 @@ first of all go and sign up for receiving a [she.codes] newsletter!(http://now.s
 [Vim Adventure](http://vim-adventures.com/)
 
 [Vim](https://www.youtube.com/watch?v=KFxnHL5Th7c)
+This are the vim commands that Larifi used up to now (25.11.14): 
+ 
+copy y
+cut x
+highlight vi (you land in Visual Mode)
+paste p
+
+and [here](http://stackoverflow.com/questions/5400806/what-are-the-most-used-vim-commands-keypresses) you find an extended list enclosing the most used vim commands.
 
 ###_Tmux sessions_
 
@@ -56,14 +65,6 @@ first of all go and sign up for receiving a [she.codes] newsletter!(http://now.s
 ###_Javascript_
 
 ###_MarkDown_
+Larifi just discovered that if you hit space twice and then return you'll have a line break. [Great!](http://daringfireball.net/projects/markdown/basics)
 
-
-
-
-
-
-
-
-
-
-
+ 
